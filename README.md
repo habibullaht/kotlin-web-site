@@ -1,3 +1,10 @@
+hello world
+
+hi every one 
+
+i am bdulmalik am new here i am here to learn android programing and the language of my choice is 
+kotlin i need all the help and support i can get from here thank you
+
 # Kotlin website
 [![Official project][project-badge]][project-url] [![Slack][slack-badge]][slack-url] 
 
